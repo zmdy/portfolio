@@ -1,6 +1,6 @@
 # Portfólio
 
-![Logo pessoal](./logo.png)
+![Logo pessoal](./assets/logo-cor-100px.png)
 
 Trabalho como freelancer, prestando consultoria e assistência técnica na área de desenvolvimento WEB. 
 
