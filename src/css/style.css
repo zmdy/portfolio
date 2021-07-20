@@ -156,6 +156,7 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 
 .btn.main-gradient{
     border-radius: 5em;
+    margin: 5% auto 10% auto;
 }
 
 .btn.main-gradient:hover{
@@ -177,8 +178,7 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 .hide{
     display:none!important;
 }
-.social-icons,
-.tech-skills-icons{
+.social-icons{
     height: 5vh;
     font-size: 25px;
     margin-bottom: 5%;
@@ -338,6 +338,7 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 
 .cursos{
     margin-bottom: 1%;
+    text-align: left;
 }
 
 .projetos{
@@ -357,6 +358,7 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
     display: block;
     margin-bottom: 2.5%;
 }
+
 .projetos a{
     color: #00b933!important;
     margin-bottom: 1.5%;
@@ -1243,6 +1245,22 @@ h5.outros-cursos{
 
 
 @media screen and (max-width:991px){
+    .hudson-logo{
+        max-width: 30vw;
+        padding-bottom: 5%;
+    }
+
+    .projetos{
+        margin-bottom: 7.5vh;
+    }
+
+    .projetos img{
+        max-width: 75%;
+        max-height: 10vh;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
     body{
         text-align: center;
@@ -1376,6 +1394,18 @@ h5.outros-cursos{
 }
 
 @media screen and (max-width:767px) {
+    .hudson-logo{
+        max-width: 50vw;
+        padding-bottom: 5%;
+    }
+
+    .pt-page {
+        padding: 8rem 0 4rem;
+    }
+
+    .client-box-resume{
+        max-height: 100vh;
+    }
 
     .heading-box h2 {
         font-size: 2.2rem;
@@ -1435,4 +1465,8 @@ h5.outros-cursos{
 #cv-area{
     color: red;
     overflow: visible;
+}
+
+.paragraph-first{
+    margin-top: 7.5%;
 }
