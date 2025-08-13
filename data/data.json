@@ -28,21 +28,9 @@
         },
         {
           "name": "GitHub",
-          "url": "https://github.com/hudson-uriel",
+          "url": "https://github.com/zmdy",
           "iconClass": "fa-brands fa-github",
           "title": "Veja meus projetos no GitHub"
-        },
-        {
-          "name": "Instagram",
-          "url": "https://www.instagram.com/seu-perfil",
-          "iconClass": "fa-brands fa-instagram",
-          "title": "Siga-me no Instagram"
-        },
-        {
-          "name": "YouTube",
-          "url": "https://www.youtube.com/c/seu-canal",
-          "iconClass": "fa-brands fa-youtube",
-          "title": "Inscreva-se no meu canal do YouTube"
         }
       ]
     }
@@ -822,4 +810,5 @@
       }
     }
   ]
+
 }
