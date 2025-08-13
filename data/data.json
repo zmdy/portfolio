@@ -1,0 +1,825 @@
+{
+  "bio": {
+    "name": "Hudson Uriel",
+    "tagline": [
+      "Desenvolvedor Web",
+      "Professor de Tecnologia",
+      "Pesquisador"
+    ],
+    "description": "Atuo desde 2020 como freelancer, prestando consultoria e assistência técnica na área de desenvolvimento WEB. Sou professor de tecnologia e idiomas, e amo utilizar tecnologia para melhorar a vida das pessoas! Vamos explorar como podemos construir coisas incríveis juntos?",
+    "profilePictureUrl": "./assets/img/bg.jfif",
+    "aboutMe": "Membro da Sociedade Brasileira de Computação (SBC) desde 2019, atualmente divido meu tempo entre tarefas profissionais e projetos de desenvolvimento web pessoais. Atuo já há alguns anos como professor de Informática e Administração em importantes instituições de Belo Horizonte, tendo a possibilidade de vivenciar as mais diversas dúvidas e questionamentos, sempre me esforçando para resolvê-las e saná-las da melhor forma possível. Como web designer e desenvolvedor web tive a oportunidade de trabalhar na construção, tradução, hospedagem e manutenção de mais de 250 websites institucionais e e-commerces. Como um diferencial em meus serviços, busco trazer o know-how que adquiro participando de treinamentos e eventos na área de desenvolvimento, hacking e segurança para garantir aos clientes por mim atendidos acesso às mais modernas tecnologias e estratégias.",
+    "profilePictureAboutMe": "./assets/img/foto-portfolio-760x1024.webp",
+    "resumeUrl": "https://zmdy.github.io/portfolio",
+    "contact": {
+      "resumeUrl": "https://zmdy.github.io/portfolio",
+      "links": [
+        {
+          "name": "WhatsApp",
+          "url": "https://wa.me/5531999027406",
+          "iconClass": "fa-brands fa-whatsapp",
+          "title": "Entre em contato via WhatsApp"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/hudson-uriel/",
+          "iconClass": "fa-brands fa-linkedin-in",
+          "title": "Visite meu perfil no LinkedIn"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/hudson-uriel",
+          "iconClass": "fa-brands fa-github",
+          "title": "Veja meus projetos no GitHub"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/seu-perfil",
+          "iconClass": "fa-brands fa-instagram",
+          "title": "Siga-me no Instagram"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/c/seu-canal",
+          "iconClass": "fa-brands fa-youtube",
+          "title": "Inscreva-se no meu canal do YouTube"
+        }
+      ]
+    }
+  },
+  "skills": {
+    "front_end": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Angular",
+      "Tailwind CSS"
+    ],
+    "back_end": [
+      "Node.js",
+      "PHP e Laravel",
+      "Python",
+      "MySQL"
+    ],
+    "ferramentas_e_plataformas": [
+      "WordPress e Elementor",
+      "Webflow",
+      "Woocommerce",
+      "Figma",
+      "Adobe Photoshop",
+      "cPanel e Hospedagem",
+      "Shopee"
+    ],
+    "marketing_e_ux": [
+      "Design Responsivo e UX/UI",
+      "Otimização de Velocidade e SEO Técnico",
+      "Google Ads e Meta Ads (conhecimentos)",
+      "Google Analytics"
+    ],
+    "idiomas": {
+      "Português": "Nativo",
+      "Inglês": "Fluente",
+      "Italiano": "Básico",
+      "Russo": "Básico"
+    }
+  },
+  "webProjects": [
+    {
+      "title": "<i class='fa-solid fa-star'></i> acsimao.com",
+      "description": "Implementação de configurações de desempenho e indexação do site ao Google, utilizando técnicas de SEO.",
+      "imageUrl": "./assets/img/web/site-acsimao.webp",
+      "details": {
+        "fullDescription": "Implementação de configurações de desempenho e indexação do site ao Google, utilizando técnicas de SEO.",
+        "technologies": [
+          "WordPress",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-acsimao.webp"
+        ],
+        "link": "https://acsimao.com"
+      }
+    },
+    {
+      "title": "anamonteiro.adv.br",
+      "description": "Criação e Implementação de layout para landing-pages de divulgação em campanhas de marketing.",
+      "imageUrl": "./assets/img/web/site-ana-monteiro.webp",
+      "details": {
+        "fullDescription": "Criação e Implementação de layout para landing-pages de divulgação em campanhas de marketing.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "TAGs Google Analytics",
+          "API Google Maps",
+          "API WhatsApp"
+        ],
+        "gallery": [
+          "./assets/img/web/site-ana-monteiro.webp"
+        ],
+        "link": "https://anamonteiro.adv.br"
+      }
+    },
+    {
+      "title": "agocursos.com.br",
+      "description": "Desenvolvimento do site; planejamento e execução de testes de segurança e usabilidade.",
+      "imageUrl": "./assets/img/web/site-ago-cursos.webp",
+      "details": {
+        "fullDescription": "Desenvolvimento do site; planejamento e execução de testes de segurança e usabilidade.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "WAFs",
+          "PHP",
+          "JS",
+          "HTML",
+          "CSS",
+          "PageSpeed Insights",
+          "BurpSuite",
+          "Wireshark",
+          "NMAP",
+          "Maltego",
+          "Nikto"
+        ],
+        "gallery": [
+          "./assets/img/web/site-ago-cursos.webp"
+        ],
+        "link": "https://agocursos.com.br"
+      }
+    },
+    {
+      "title": "benandjerry.com.br",
+      "description": "Realização de testes de usabilidade (UX) e desempenho em plataforma de User Testing.",
+      "imageUrl": "./assets/img/web/site-ben-and-jerry.webp",
+      "details": {
+        "fullDescription": "Realização de testes de usabilidade (UX) e desempenho em plataforma de User Testing.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "DevTools"
+        ],
+        "gallery": [
+          "./assets/img/web/site-ben-and-jerry.webp"
+        ],
+        "link": "https://benandjerry.com.br"
+      }
+    },
+    {
+      "title": "zmdy.github.io/aulas.txt",
+      "description": "Desenvolvimento de site estático com Hexo para distribuição de materias para aulas de T.I. e Administração.",
+      "imageUrl": "./assets/img/web/site-aulas-txt.webp",
+      "details": {
+        "fullDescription": "Desenvolvimento de site estático com Hexo para distribuição de materias para aulas de T.I. e Administração.",
+        "technologies": [
+          "Markdown",
+          "Hexo",
+          "CSS",
+          "JS",
+          "Git/GitHub"
+        ],
+        "gallery": [
+          "./assets/img/web/site-aulas-txt.webp"
+        ],
+        "link": "https://zmdy.github.io/aulas.txt"
+      }
+    },
+    {
+      "title": "Arduino Signals",
+      "description": "Projeto de osciloscópio baseado em web para o Arduino.",
+      "imageUrl": "./assets/img/web/site-arduino-signals.webp",
+      "details": {
+        "fullDescription": "Projeto de osciloscópio baseado em web para o Arduino.",
+        "technologies": [
+          "Arduino",
+          "PHP",
+          "JS",
+          "HTML",
+          "CSS",
+          "Git/GitHub"
+        ],
+        "gallery": [
+          "./assets/img/web/site-arduino-signals.webp"
+        ],
+        "link": ""
+      }
+    },
+    {
+      "title": "AstroCalc",
+      "description": "Projeto de calculadora web para entusistas e estudantes de Astronomia.",
+      "imageUrl": "./assets/img/web/site-astrocalc.webp",
+      "details": {
+        "fullDescription": "Projeto de calculadora web para entusistas e estudantes de Astronomia.",
+        "technologies": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Git/GitHub"
+        ],
+        "gallery": [
+          "./assets/img/web/site-astrocalc.webp"
+        ],
+        "link": ""
+      }
+    },
+    {
+      "title": "Bonisa",
+      "description": "Projeto de framework para transormar arquivos de texto (txt, markdown) em apresentações de slides.",
+      "imageUrl": "./assets/img/web/site-bonisa.webp",
+      "details": {
+        "fullDescription": "Projeto de framework para transormar arquivos de texto (txt, markdown) em apresentações de slides.",
+        "technologies": [
+          "MarkDown",
+          "RegEx",
+          "JS",
+          "HTML",
+          "CSS",
+          "Git/GitHub"
+        ],
+        "gallery": [
+          "./assets/img/web/site-bonisa.webp"
+        ],
+        "link": ""
+      }
+    },
+    {
+      "title": "fernandabaldanza.adv.br",
+      "description": "Implementação de melhorias no layout do site.",
+      "imageUrl": "./assets/img/web/site-fernanda-baldanza.webp",
+      "details": {
+        "fullDescription": "Implementação de melhorias no layout do site.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "CSS",
+          "API WhatsApp"
+        ],
+        "gallery": [
+          "./assets/img/web/site-fernanda-baldanza.webp"
+        ],
+        "link": "https://fernandabaldanza.adv.br"
+      }
+    },
+    {
+      "title": "ferrazadvocaciato.com",
+      "description": "Resturação de site, implementação de ajustes de layout.",
+      "imageUrl": "./assets/img/web/site-ferraz-advocacia.webp",
+      "details": {
+        "fullDescription": "Resturação de site, implementação de ajustes de layout.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "CSS",
+          "API WhatsApp"
+        ],
+        "gallery": [
+          "./assets/img/web/site-ferraz-advocacia.webp"
+        ],
+        "link": "https://ferrazadvocaciato.com"
+      }
+    },
+    {
+      "title": "ganepao.com.br",
+      "description": "Codificação e estilização do layout utilizado no site e aplicativo do Congresso Ganepão 2021",
+      "imageUrl": "./assets/img/web/site-ganepao-eventsmobi.webp",
+      "details": {
+        "fullDescription": "Codificação e estilização do layout utilizado no site e aplicativo do Congresso Ganepão 2021",
+        "technologies": [
+          "CSS"
+        ],
+        "gallery": [
+          "./assets/img/web/site-ganepao-eventsmobi.webp"
+        ],
+        "link": "https://ganepao.com.br"
+      }
+    },
+    {
+      "title": "grupocni.com.br",
+      "description": "Rebranding do site institucional; planejamento e execução de testes de segurança e usabilidade no mesmo.",
+      "imageUrl": "./assets/img/web/site-grupo-cni.webp",
+      "details": {
+        "fullDescription": "Rebranding do site institucional; planejamento e execução de testes de segurança e usabilidade no mesmo.",
+        "technologies": [
+          "WordPress",
+          "WAFs",
+          "PHP",
+          "JS",
+          "HTML",
+          "CSS",
+          "PageSpeed Insights",
+          "BurpSuite",
+          "Wireshark",
+          "NMAP",
+          "Maltego",
+          "Nikto",
+          "WPScan"
+        ],
+        "gallery": [
+          "./assets/img/web/site-grupo-cni.webp"
+        ],
+        "link": "https://grupocni.com.br"
+      }
+    },
+    {
+      "title": "jaymepena.com.br",
+      "description": "Implementação de layout para landing-pages de divulgação em campanhas de marketing.",
+      "imageUrl": "./assets/img/web/site-jayme-pena-landing.webp",
+      "details": {
+        "fullDescription": "Implementação de layout para landing-pages de divulgação em campanhas de marketing.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "CSS",
+          "API WhatsApp"
+        ],
+        "gallery": [
+          "./assets/img/web/site-jayme-pena-landing.webp"
+        ],
+        "link": "https://jaymepena.com.br"
+      }
+    },
+    {
+      "title": "jeanlimaadvocacia.com.br",
+      "description": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+      "imageUrl": "./assets/img/web/site-jean-lima.webp",
+      "details": {
+        "fullDescription": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "API WhatsApp",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-jean-lima.webp"
+        ],
+        "link": "https://jeanlimaadvocacia.com.br"
+      }
+    },
+    {
+      "title": "jefersonribeiro.adv.br",
+      "description": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+      "imageUrl": "./assets/img/web/site-jeferson-ribeiro.webp",
+      "details": {
+        "fullDescription": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "API WhatsApp",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-jeferson-ribeiro.webp"
+        ],
+        "link": "https://jefersonribeiro.adv.br"
+      }
+    },
+    {
+      "title": "lucasbento.adv.br",
+      "description": "Inserção de artigos e postagens em blog para divulgação em campanhas de marketing.",
+      "imageUrl": "./assets/img/web/site-lucas-bento.webp",
+      "details": {
+        "fullDescription": "Inserção de artigos e postagens em blog para divulgação em campanhas de marketing.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "HTML",
+          "CSS"
+        ],
+        "gallery": [
+          "./assets/img/web/site-lucas-bento.webp"
+        ],
+        "link": "https://lucasbento.adv.br"
+      }
+    },
+    {
+      "title": "mondegoengenharia.com",
+      "description": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+      "imageUrl": "./assets/img/web/site-mondego-engenharia.webp",
+      "details": {
+        "fullDescription": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "API WhatsApp",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-mondego-engenharia.webp"
+        ],
+        "link": "https://mondegoengenharia.com"
+      }
+    },
+    {
+      "title": "origna.com.br",
+      "description": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+      "imageUrl": "./assets/img/web/site-origna.webp",
+      "details": {
+        "fullDescription": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "API WhatsApp",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-origna.webp"
+        ],
+        "link": "https://origna.com.br"
+      }
+    },
+    {
+      "title": "oticajzglasses.com.br",
+      "description": "Publicação e configuração do site em serviço de web hosting. Ajustes no layout do site.",
+      "imageUrl": "./assets/img/web/site-otica-jz-glasses.webp",
+      "details": {
+        "fullDescription": "Publicação e configuração do site em serviço de web hosting. Ajustes no layout do site.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "API WhatsApp",
+          "Google Site Kit"
+        ],
+        "gallery": [
+          "./assets/img/web/site-otica-jz-glasses.webp"
+        ],
+        "link": "https://oticajzglasses.com.br"
+      }
+    },
+    {
+      "title": "agocursos.com.br/app",
+      "description": "Desenvolvimento e publicação da plataforma; planejamento e execução de testes de segurança e usabilidade.",
+      "imageUrl": "./assets/img/web/site-plataforma-ago.webp",
+      "details": {
+        "fullDescription": "Desenvolvimento e publicação da plataforma; planejamento e execução de testes de segurança e usabilidade.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "Woocomerce",
+          "LearnPress",
+          "WAFs",
+          "PHP",
+          "JS",
+          "HTML",
+          "CSS",
+          "PageSpeed Insights",
+          "BurpSuite",
+          "Wireshark",
+          "NMAP",
+          "Maltego",
+          "Nikto"
+        ],
+        "gallery": [
+          "./assets/img/web/site-plataforma-ago.webp"
+        ],
+        "link": "https://agocursos.com.br/app"
+      }
+    },
+    {
+      "title": "Simcir JS",
+      "description": "Implementação de novos componentes e criação de logo para o simulador de circuitos digitais SimcirJS.",
+      "imageUrl": "./assets/img/web/site-simcirjs.webp",
+      "details": {
+        "fullDescription": "Implementação de novos componentes e criação de logo para o simulador de circuitos digitais SimcirJS.",
+        "technologies": [
+          "JS",
+          "HTML",
+          "CSS",
+          "Git/GitHub",
+          "SVG"
+        ],
+        "gallery": [
+          "./assets/img/web/site-simcirjs.webp"
+        ],
+        "link": ""
+      }
+    },
+    {
+      "title": "agocursos.com.br",
+      "description": "Instalação e configuração de encurtador de link ./src/personalizado - YOURLS.",
+      "imageUrl": "./assets/img/web/site-yourls-ago.webp",
+      "details": {
+        "fullDescription": "Instalação e configuração de encurtador de link ./src/personalizado - YOURLS.",
+        "technologies": [
+          "YOURLS",
+          "PHP",
+          "MySQL",
+          "CSS",
+          "Sleeky"
+        ],
+        "gallery": [
+          "./assets/img/web/site-yourls-ago.webp"
+        ],
+        "link": "https://agocursos.com.br"
+      }
+    },
+    {
+      "title": "psicodivertidamente.com.br",
+      "description": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+      "imageUrl": "./assets/img/web/site-psicodivertidamente.webp",
+      "details": {
+        "fullDescription": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "API WhatsApp",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-psicodivertidamente.webp"
+        ],
+        "link": "https://psicodivertidamente.com.br"
+      }
+    },
+    {
+      "title": "rosaluzboutique.com.br",
+      "description": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+      "imageUrl": "./assets/img/web/site-rosa-luz-boutique.webp",
+      "details": {
+        "fullDescription": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "API WhatsApp",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-rosa-luz-boutique.webp"
+        ],
+        "link": "https://rosaluzboutique.com.br"
+      }
+    },
+    {
+      "title": "wrsa.adv.br",
+      "description": "Correção de bugs em plugin do WhatsApp, devido a cinompatibilidade em dispositivos iOS/Apple; Implementação de layout para landing-pages.",
+      "imageUrl": "./assets/img/web/site-wrsa.webp",
+      "details": {
+        "fullDescription": "Correção de bugs em plugin do WhatsApp, devido a cinompatibilidade em dispositivos iOS/Apple; Implementação de layout para landing-pages.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "API WhatsApp",
+          "JS",
+          "PHP"
+        ],
+        "gallery": [
+          "./assets/img/web/site-wrsa.webp"
+        ],
+        "link": "https://wrsa.adv.br"
+      }
+    },
+    {
+      "title": "zillionempreendedorismo.com.br",
+      "description": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+      "imageUrl": "./assets/img/web/site-zillion.webp",
+      "details": {
+        "fullDescription": "Publicação e configuração do site em serviço de web hosting. Implementação de estratégias de SEO, desempenho e segurança.",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "API WhatsApp",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-zillion.webp"
+        ],
+        "link": "https://zillionempreendedorismo.com.br"
+      }
+    }
+  ],
+  "designProjects": [
+    {
+      "title": "Horizonte Cursos - Rebranding",
+      "description": "Rebranding da logo para uma escola profissionalizante.",
+      "imageUrl": "./assets/img/design/projetos_g227.webp",
+      "details": {
+        "fullDescription": "Este projeto de design envolveu a criação de uma identidade visual completa, incluindo a reformulação da logo, paleta de cores e tipografia, para uma escola de cursos profissionalizantes.",
+        "technologies": [
+          "Figma",
+          "Corel Draw",
+          "Adobe Photoshop"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g225.webp",
+          "./assets/img/design/projetos_g226.webp",
+          "./assets/img/design/projetos_g224.webp",
+          "./assets/img/design/projetos_g223.gif"
+        ],
+        "link": "https://www.instagram.com/horizontecursos_/"
+      }
+    },
+    {
+      "title": "Horizonte Cursos - Template Corporativo",
+      "description": "Criação de template PowerPoint para produção de conteúdos pedagógicos.",
+      "imageUrl": "./assets/img/design/projetos_g221.webp",
+      "details": {
+        "fullDescription": "Criação de um template corporativo para apresentações de PowerPoint, com foco em conteúdos pedagógicos. O objetivo foi padronizar a identidade visual da escola em suas comunicações e materiais de ensino.",
+        "technologies": [
+          "Corel Draw",
+          "Adobe Photoshop",
+          "Microsoft PowerPoint"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g221.webp",
+          "./assets/img/design/projetos_g222.webp",
+          "./assets/img/design/projetos_g224.webp"
+        ],
+        "link": "https://horizontecursos.com.br/"
+      }
+    },
+    {
+      "title": "Africa Perceptions",
+      "description": "Design de logo para simpósio universitário",
+      "imageUrl": "./assets/img/design/projetos_g220.webp",
+      "details": {
+        "fullDescription": "Criação da identidade visual e logo para o simpósio universitário 'Africa Perceptions'. O projeto incluiu o design do logotipo e a padronização visual para os materiais de divulgação do evento.",
+        "technologies": [
+          "Inkscape",
+          "Adobe Photoshop",
+          "Figma"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g219.webp",
+          "./assets/img/design/projetos_g220.webp",
+          "./assets/img/design/projetos_g218.webp"
+        ],
+        "link": "https://zmdy.github.io/africa-perceptions"
+      }
+    },
+    {
+      "title": "Cybernow - Criação de Identidade Visual",
+      "description": "Criação da logo de uma gráfica rápida de Belo Horizonte",
+      "imageUrl": "./assets/img/design/projetos_g216.webp",
+      "details": {
+        "fullDescription": "Este projeto de design envolveu a criação de uma identidade visual completa, incluindo a logo, paleta de cores e tipografia, para uma gráfica rápida de produtos personalizados em Belo Horizonte.",
+        "technologies": [
+          "Figma",
+          "Corel Draw",
+          "Adobe Illustrator"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g216.webp",
+          "./assets/img/design/projetos_g207.webp",
+          "./assets/img/design/projetos_g215.webp",
+          "./assets/img/design/projetos_g217.webp"
+        ],
+        "link": "http://cybernow.com.br/"
+      }
+    },
+    {
+      "title": "Oncoclínicas & Co. - Template de E-mail Corporativo",
+      "description": "Criação de template para produção de conteúdos de comunicação empresarial via e-mail",
+      "imageUrl": "./assets/img/design/projetos_g126.webp",
+      "details": {
+        "fullDescription": "Desenvolvimento de um template de e-mail corporativo para a Oncoclínicas & Co., com o objetivo de padronizar a comunicação interna e externa da empresa através de e-mails, garantindo uma identidade visual consistente.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "Figma"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g69.webp",
+          "./assets/img/design/projetos_g70.webp",
+          "./assets/img/design/projetos_g126.webp"
+        ],
+        "link": "https://grupooncoclinicas.com/"
+      }
+    },
+    {
+      "title": "Oncoclínicas & Co. - Template PowerPoint",
+      "description": "Criação de template PowerPoint para produção de apresentações e relatórios técnicos, utilizados pelo setor de Governança de TI.",
+      "imageUrl": "./assets/img/design/projetos_g128.webp",
+      "details": {
+        "fullDescription": "Criação de um template de apresentações e relatórios técnicos para o setor de Governança de TI da Oncoclínicas & Co. O template foi desenvolvido para ser usado no Microsoft PowerPoint, garantindo a padronização visual dos documentos internos.",
+        "technologies": [
+          "Figma",
+          "Microsoft PowerPoint",
+          "Corel Draw"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g71.webp",
+          "./assets/img/design/projetos_g127.webp",
+          "./assets/img/design/projetos_g128.webp"
+        ],
+        "link": "https://grupooncoclinicas.com/"
+      }
+    },
+    {
+      "title": "Ago Cursos - Identidade Visual de eventos acadêmicos",
+      "description": "Criação de template PowerPoint para simpósios, jornadas e eventos acadêmicos online.",
+      "imageUrl": "./assets/img/design/projetos_g250.webp",
+      "details": {
+        "fullDescription": "Desenvolvimento da identidade visual e templates para eventos acadêmicos online da Ago Cursos. O projeto incluiu a criação de layouts para apresentações de simpósios e jornadas, padronizando a comunicação visual dos eventos.",
+        "technologies": [
+          "Figma",
+          "Corel Draw",
+          "Microsoft PowerPoint"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g250.webp"
+        ],
+        "link": "https://www.instagram.com/agocursos/"
+      }
+    },
+    {
+      "title": "Ago Cursos - Identidade Visual de Simpósio de Mamografia",
+      "description": "Criação de template PowerPoint para simpósio online de Radiologia.",
+      "imageUrl": "./assets/img/design/projetos_g258.webp",
+      "details": {
+        "fullDescription": "Criação da identidade visual para o Simpósio de Mamografia da Ago Cursos, incluindo templates de PowerPoint para as apresentações. O design foi focado em transmitir profissionalismo e clareza para o público de Radiologia.",
+        "technologies": [
+          "Figma",
+          "Corel Draw",
+          "Microsoft PowerPoint"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g258.webp"
+        ],
+        "link": "https://www.youtube.com/live/ENoaLGRDZ1o"
+      }
+    },
+    {
+      "title": "Ago Cursos - Identidade Visual de Simpósio de Volta as Aulas",
+      "description": "Criação de template PowerPoint para simpósio online de Radiologia.",
+      "imageUrl": "./assets/img/design/projetos_g274.webp",
+      "details": {
+        "fullDescription": "Desenvolvimento da identidade visual para o Simpósio 'Volta às Aulas' da Ago Cursos. O projeto consistiu na criação de templates de PowerPoint e peças de comunicação para o evento online focado em Radiologia.",
+        "technologies": [
+          "Figma",
+          "Corel Draw",
+          "Microsoft PowerPoint"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g274.webp"
+        ],
+        "link": "https://www.youtube.com/live/4ymPyzO_CCE"
+      }
+    },
+    {
+      "title": "Ago Cursos - Identidade Visual de Simpósio de Férias",
+      "description": "Criação de template PowerPoint para simpósio online de Radiologia.",
+      "imageUrl": "./assets/img/design/projetos_g290.webp",
+      "details": {
+        "fullDescription": "Criação de templates de PowerPoint e identidade visual para o Simpósio de Férias da Ago Cursos. O design foi pensado para ser dinâmico e envolvente, atraindo o público para o evento online de Radiologia.",
+        "technologies": [
+          "Figma",
+          "Corel Draw",
+          "Microsoft PowerPoint"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g290.webp"
+        ],
+        "link": "https://www.youtube.com/live/PROJ1r7eIg8"
+      }
+    },
+    {
+      "title": "Ago Cursos - Identidade Visual de Jornada Acadêmica",
+      "description": "Criação de template PowerPoint para jornada online de Radiologia.",
+      "imageUrl": "./assets/img/design/projetos_g266.webp",
+      "details": {
+        "fullDescription": "Desenvolvimento da identidade visual para uma Jornada Acadêmica online da Ago Cursos, com a criação de templates de PowerPoint e outros materiais gráficos para o evento de Radiologia.",
+        "technologies": [
+          "Figma",
+          "Corel Draw",
+          "Microsoft PowerPoint"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g266.webp"
+        ],
+        "link": "https://www.youtube.com/live/3YS2Ar0TJoQ"
+      }
+    },
+    {
+      "title": "Ago Cursos - Identidade Visual de Simpósio de Radioterapia",
+      "description": "Criação de template PowerPoint para simpósio online de Radiologia.",
+      "imageUrl": "./assets/img/design/projetos_g289.webp",
+      "details": {
+        "fullDescription": "Criação de templates de PowerPoint para o Simpósio de Radioterapia da Ago Cursos, garantindo que o design e a identidade visual do evento fossem consistentes e profissionais para o público especializado em Radiologia.",
+        "technologies": [
+          "Figma",
+          "Corel Draw",
+          "Microsoft PowerPoint"
+        ],
+        "gallery": [
+          "./assets/img/design/projetos_g289.webp"
+        ],
+        "link": "https://www.youtube.com/live/3YS2Ar0TJoQ"
+      }
+    }
+  ]
+}
