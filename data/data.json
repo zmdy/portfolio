@@ -6,9 +6,9 @@
       "Professor de Tecnologia",
       "Pesquisador"
     ],
-    "description": "Atuo desde 2020 como freelancer, prestando consultoria e assistência técnica na área de desenvolvimento WEB. Sou professor de tecnologia e idiomas, e amo utilizar tecnologia para melhorar a vida das pessoas! Vamos explorar como podemos construir coisas incríveis juntos?",
+    "description": "Especialista em desenvolvimento web e educador por paixão. Há mais de 6 anos ajudo empresas e pessoas a alcançarem seu potencial máximo através de tecnologia estratégica e design focado no usuário. Unindo suporte técnico robusto e uma visão humanizada, meu objetivo é criar ferramentas que simplifiquem o cotidiano e gerem resultados reais. Pronto para transformar seu projeto em realidade?",
     "profilePictureUrl": "./assets/img/bg.jfif",
-    "aboutMe": "Membro da Sociedade Brasileira de Computação (SBC) desde 2019, atualmente divido meu tempo entre tarefas profissionais e projetos de desenvolvimento web pessoais. Atuo já há alguns anos como professor de Informática e Administração em importantes instituições de Belo Horizonte, tendo a possibilidade de vivenciar as mais diversas dúvidas e questionamentos, sempre me esforçando para resolvê-las e saná-las da melhor forma possível. Como web designer e desenvolvedor web tive a oportunidade de trabalhar na construção, tradução, hospedagem e manutenção de mais de 250 websites institucionais e e-commerces. Como um diferencial em meus serviços, busco trazer o know-how que adquiro participando de treinamentos e eventos na área de desenvolvimento, hacking e segurança para garantir aos clientes por mim atendidos acesso às mais modernas tecnologias e estratégias.",
+    "aboutMe": "Membro da Sociedade Brasileira de Computação (SBC) desde 2019, carrego o compromisso com a excelência técnica em cada projeto que assino. Com uma bagagem de mais de 250 sites e e-commerces desenvolvidos, traduzo minha experiência como professor em grandes instituições de Belo Horizonte na habilidade única de ouvir, entender e resolver desafios complexos com total clareza. Meu grande diferencial? Integro conhecimentos avançados em segurança e hacking para entregar não apenas um design moderno, mas uma plataforma blindada e performática.",
     "profilePictureAboutMe": "./assets/img/foto-portfolio-760x1024.webp",
     "resumeUrl": "https://zmdy.github.io/portfolio",
     "contact": {
@@ -46,17 +46,22 @@
     ],
     "back_end": [
       "Node.js",
-      "PHP e Laravel",
+      "PHP",
+      "Laravel",
       "Python",
       "MySQL"
     ],
     "ferramentas_e_plataformas": [
-      "WordPress e Elementor",
+      "WordPress",
+      "Elementor",
       "Webflow",
       "Woocommerce",
       "Figma",
       "Adobe Photoshop",
-      "cPanel e Hospedagem",
+      "Adobe Illustrator",
+      "cPanel",
+      "Plesk",
+      "Web Hosting",
       "Shopee"
     ],
     "marketing_e_ux": [
@@ -74,8 +79,469 @@
   },
   "webProjects": [
     {
-      "title": "<i class='fa-solid fa-star'></i> acsimao.com",
-      "description": "Implementação de configurações de desempenho e indexação do site ao Google, utilizando técnicas de SEO.",
+      "title": "<span class='badge-new'>NEW</span> Universo Licitações",
+      "description": "Modernização completa do ecossistema digital da marca, através do desenvolvimento de um novo site institucional e otimização do sistema interno para máxima eficiência.",
+      "imageUrl": "./assets/img/web/site-universo-licitacoes.webp",
+      "details": {
+        "fullDescription": "A Universo Licitações é uma consultoria especializada em processos licitatórios, um setor que exige máxima seriedade e confiança. O projeto consistiu em um estudo profundo de interface (UI) para criar um template exclusivo e de alta performance, codificado sob medida em HTML/CSS/JS e backend ASP. Substituímos uma plataforma obsoleta por uma solução moderna que não apenas facilitou a navegação do usuário, mas reposicionou a empresa como autoridade no mercado, gerando um impacto direto na percepção de valor da marca e na agilidade dos processos internos através do novo sistema otimizado.",
+        "technologies": [
+          "ASP",
+          "Figma",
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "cPanel"
+        ],
+        "gallery": [
+          "./assets/img/web/site-universo-licitacoes2.webp",
+          "./assets/img/web/site-universo-licitacoes3.webp",
+          "./assets/img/web/site-universo-licitacoes4.webp"
+        ],
+        "link": "https://ranking.bhz.br/2025/universolicitacoes/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Fortio - Logística Inteligente",
+      "description": "Desenvolvimento de um novo website institucional focado em segmentação de público e no reposicionamento estratégico da marca no mercado logístico.",
+      "imageUrl": "./assets/img/web/site-fortio.webp",
+      "details": {
+        "fullDescription": "A Fortio é um elo fundamental na cadeia logística brasileira, conectando motoristas independentes a grandes embarcadores através de soluções tecnológicas. O desafio deste projeto foi corrigir o descompasso entre a robustez da empresa e sua presença digital obsoleta, que já não refletia seu real valor. Realizei um estudo aprofundado de interface e tipografia baseado na identidade visual da marca, culminando na criação de uma campanha publicitária autêntica que serviu como alicerce para o novo site. O impacto do meu trabalho foi a unificação da linguagem da empresa: o novo site agora fala diretamente com dois perfis distintos de forma assertiva, transformando a plataforma em um ponto de confiança e autoridade que acelera o fechamento de novos negócios e parcerias.",
+        "technologies": [
+          "WordPress",
+          "PHP",
+          "Figma (UI/UX Design)",
+          "HTML5",
+          "CSS3",
+          "Copywriting Estratégico",
+          "Estratégia de SEO",
+          "cPanel"
+        ],
+        "gallery": [
+          "./assets/img/web/site-fortio.webp",
+          "./assets/img/web/site-fortio2.webp"
+        ],
+        "link": "https://ranking.bhz.br/2025/fortio/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Volts Seguradora",
+      "description": "Criação da primeira identidade digital da Volts, focada em consolidar a autoridade da nova marca e destacar seus serviços no setor de seguros.",
+      "imageUrl": "./assets/img/web/site-volts.webp",
+      "details": {
+        "fullDescription": "A Volts Seguradora entrou no mercado com o desafio de estabelecer confiança e solidez desde o primeiro dia. Por ser o primeiro site institucional da empresa, desenvolvi um projeto focado em branding de alto impacto, unindo um estudo de interface moderno a uma tipografia que transmite segurança. O diferencial estratégico foi a criação de uma campanha publicitária integrada, que serviu como base para o posicionamento do site, garantindo que a comunicação visual e textual estivessem em total sintonia com a realidade da marca. Codificado em WordPress, o novo site não apenas apresenta os serviços de forma clara, mas entrega à Volts uma presença digital proprietária que a posiciona como uma escolha segura e inovadora frente aos concorrentes já estabelecidos.",
+        "technologies": [
+          "WordPress",
+          "PHP",
+          "Figma (UI/UX)",
+          "Branding Estratégico",
+          "Copywriting",
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "Otimização de Performance"
+        ],
+        "gallery": [
+          "./assets/img/web/site-volts.webp",
+          "./assets/img/web/site-volts-full.webp"
+        ],
+        "link": "https://voltsseguradora.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Tecnofluid - E-commerce Industrial",
+      "description": "Revitalização completa da loja virtual WooCommerce, focada em otimizar a jornada de compra e fortalecer a autoridade digital da marca no setor industrial.",
+      "imageUrl": "./assets/img/web/site-tecnofluid.webp",
+      "details": {
+        "fullDescription": "A Tecnofluid é uma referência no segmento de soluções industriais, onde a precisão técnica e a confiança são fundamentais. O desafio deste projeto foi transformar uma loja virtual obsoleta em uma plataforma de vendas de alta performance. Realizei um estudo de interface focado na hierarquia de informações e na facilidade de navegação para produtos técnicos, utilizando a identidade visual da empresa para criar um ambiente digital profissional. O projeto foi guiado por uma campanha publicitária estratégica que serviu de base para o novo posicionamento do site. Com a codificação sob medida em WordPress e WooCommerce, o resultado foi uma experiência de compra fluida e segura, que elevou o patamar de profissionalismo da Tecnofluid e facilitou a conexão entre seus produtos complexos e as necessidades dos clientes finais.",
+        "technologies": [
+          "WordPress",
+          "WooCommerce",
+          "PHP",
+          "Figma (UI/UX)",
+          "E-commerce Strategy",
+          "HTML5",
+          "CSS3",
+          "Copywriting Técnico",
+          "Gerenciamento de Inventário Digital"
+        ],
+        "gallery": [
+          "./assets/img/web/site-tecnofluid.webp",
+          "./assets/img/web/site-tecnofluid-full.webp"
+        ],
+        "link": "https://ranking.bhz.br/2021/tecnofluid/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> RM Polimentos",
+      "description": "Reformulação integral da presença digital da marca, focada em modernização visual e otimização da jornada de conversão para serviços de alto padrão.",
+      "imageUrl": "./assets/img/web/site-rm-polimentos.webp",
+      "details": {
+        "fullDescription": "A RM Polimentos é especialista em restauração e tratamento de superfícies nobres, atendendo um público que preza por estética e durabilidade. O projeto de reformulação total do site foi motivado pela necessidade de alinhar a imagem digital da empresa à sofisticação dos seus serviços em mármores e granitos. Desenvolvi uma interface minimalista e elegante, onde o foco principal são os resultados visuais, transmitindo confiança e autoridade imediata. O impacto do meu trabalho de webdesign estratégico foi a criação de uma vitrine digital de luxo, que não apenas modernizou a marca, mas elevou significativamente a percepção de valor dos serviços, atraindo leads mais qualificados e profissionais.",
+        "technologies": [
+          "WordPress",
+          "PHP",
+          "Figma (UI/UX Design)",
+          "HTML5",
+          "CSS3",
+          "SEO Técnico",
+          "Otimização de Imagens",
+          "Branding Digital"
+        ],
+        "gallery": [
+          "./assets/img/web/site-rm-polimentos.webp",
+          "./assets/img/web/site-rm-polimentos-full.webp"
+        ],
+        "link": "https://ranking.bhz.br/2025/rmpolimentos/"
+      }
+    },
+    {
+      "title": "H2 Finance - Consultoria Estratégica",
+      "description": "Criação de uma Landing Page de alta conversão projetada para o lançamento da marca no mercado financeiro, com foco total em autoridade e captura de leads.",
+      "imageUrl": "./assets/img/web/site-h2.webp",
+      "details": {
+        "fullDescription": "A H2 Finance é uma empresa que nasce para oferecer soluções financeiras inteligentes e descomplicadas para o setor corporativo. Por ser o marco zero da presença digital da marca, desenvolvi uma landing page estratégica que prioriza a clareza da proposta de valor e a facilidade de contato (CTA). O trabalho envolveu a estruturação de uma arquitetura de informação focada em UX (User Experience), garantindo que o potencial cliente compreenda a solidez da empresa em poucos segundos de navegação. O impacto desse projeto foi vital para o lançamento da marca: o design estratégico conferiu à H2 Finance uma imagem de instituição estabelecida e confiável, transformando a landing page na principal porta de entrada para a geração de novos negócios e parcerias estratégicas.",
+        "technologies": [
+          "WordPress",
+          "Elementor Pro",
+          "Figma (UI/UX Design)",
+          "Copywriting para Conversão",
+          "HTML5",
+          "CSS3",
+          "SEO On-Page",
+          "Otimização de Performance"
+        ],
+        "gallery": [
+          "./assets/img/web/site-h2.webp",
+          "./assets/img/web/site-h2-full.webp"
+        ],
+        "link": "https://h2finance.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Trindade Mutual",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://trindademutual.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Líder Medidores",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://lidermedidores.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Conti Consultoria",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://conticonsultoria.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> RH Conti Consultoria",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://rh.conticonsultoria.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Pensamente Psicologia ",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "pensamentepsicologia.com.br"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Star Licitações",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://starlicitacoes.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Gráfica GGS",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://www.graficaggs.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Autoescola Maia",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://www.graficaggs.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Inove Joy",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://www.graficaggs.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Amave",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://www.graficaggs.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Fábrica da Bolacha de Chopp",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://www.graficaggs.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Soluster",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://www.graficaggs.com.br/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Pimenta Perícias",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://ranking.bhz.br/2026/pimentapericias/"
+      }
+    },
+    {
+      "title": "<span class='badge-new'>NEW</span> Vivian Bellezia Advocacia",
+      "description": "Projeto em desenvolvimento",
+      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "details": {
+        "fullDescription": "Projeto em desenvolvimento",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "cPanel",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Let's Encrypt",
+          "Google Site Kit",
+          "PageSpeed Insights"
+        ],
+        "gallery": [
+          "./assets/img/web/site-em-breve.jpeg",
+          "./assets/img/web/site-em-breve.jpeg"
+        ],
+        "link": "https://ranking.bhz.br/2025/dravivian/"
+      }
+    },
+    {
+      "title": "acsimao.com",
+      "description": "Desenvolvimento do site; planejamento e execução de testes de segurança e usabilidade; desenvolvimento da interface do site, construção da camapanha publicitária focada em SEO; o site foi construído de maneira estratégica, focado em usabilidade e mobile first.",
       "imageUrl": "./assets/img/web/site-acsimao.webp",
       "details": {
         "fullDescription": "Implementação de configurações de desempenho e indexação do site ao Google, utilizando técnicas de SEO.",
@@ -810,5 +1276,4 @@
       }
     }
   ]
-
 }

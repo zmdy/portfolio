@@ -1,0 +1,1279 @@
+{
+    "bio": {
+        "name": "Hudson Uriel",
+        "tagline": [
+            "Web Developer",
+            "Technology Instructor",
+            "Researcher"
+        ],
+        "description": "Web development specialist and educator by passion. For over 6 years, I have been helping companies and individuals reach their full potential through strategic technology and user-focused design. By combining robust technical support with a human-centered vision, my goal is to create tools that simplify daily life and deliver real results. Ready to turn your project into reality?",
+        "profilePictureUrl": "./assets/img/bg.jfif",
+        "aboutMe": "A member of the Brazilian Computing Society (SBC) since 2019, I carry a commitment to technical excellence in every project I sign. With a background of over 250 websites and e-commerces developed, I translate my experience as a professor at major institutions in Belo Horizonte into a unique ability to listen, understand, and solve complex challenges with total clarity. My main differentiator? I integrate advanced knowledge in security and hacking to deliver not just a modern design, but a high-performance, bulletproof platform.",
+        "profilePictureAboutMe": "./assets/img/foto-portfolio-760x1024.webp",
+        "resumeUrl": "https://zmdy.github.io/portfolio",
+        "contact": {
+            "resumeUrl": "https://zmdy.github.io/portfolio",
+            "links": [
+                {
+                    "name": "WhatsApp",
+                    "url": "https://wa.me/5531999027406",
+                    "iconClass": "fa-brands fa-whatsapp",
+                    "title": "Get in touch via WhatsApp"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/hudson-uriel/",
+                    "iconClass": "fa-brands fa-linkedin-in",
+                    "title": "Visit my LinkedIn profile"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/zmdy",
+                    "iconClass": "fa-brands fa-github",
+                    "title": "Check out my projects on GitHub"
+                }
+            ]
+        }
+    },
+    "skills": {
+        "front_end": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "React",
+            "Angular",
+            "Tailwind CSS"
+        ],
+        "back_end": [
+            "Node.js",
+            "PHP",
+            "Laravel",
+            "Python",
+            "MySQL"
+        ],
+        "ferramentas_e_plataformas": [
+            "WordPress",
+            "Elementor",
+            "Webflow",
+            "WooCommerce",
+            "Figma",
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "cPanel",
+            "Plesk",
+            "Web Hosting",
+            "Shopee"
+        ],
+        "marketing_e_ux": [
+            "Responsive Design and UX/UI",
+            "Speed Optimization and Technical SEO",
+            "Google Ads and Meta Ads (Proficient)",
+            "Google Analytics"
+        ],
+        "idiomas": {
+            "Portuguese": "Native",
+            "English": "Fluent",
+            "Italian": "Basic",
+            "Russian": "Basic"
+        }
+    },
+    "webProjects": [
+        {
+            "title": "<span class='badge-new'>NEW</span> Universo Licitações",
+            "description": "Complete modernization of the brand's digital ecosystem, featuring a new institutional website and internal system optimization for maximum efficiency.",
+            "imageUrl": "./assets/img/web/site-universo-licitacoes.webp",
+            "details": {
+                "fullDescription": "Universo Licitações is a consultancy specializing in bidding processes, a sector that demands utmost reliability and seriousness. The project involved a deep User Interface (UI) study to create a custom, high-performance template, hand-coded with HTML/CSS/JS and an ASP backend. We replaced an obsolete platform with a modern solution that not only improved navigation but also repositioned the company as a market authority, directly impacting brand value perception and internal workflow agility.",
+                "technologies": [
+                    "ASP",
+                    "Figma",
+                    "HTML5",
+                    "CSS3",
+                    "JavaScript",
+                    "cPanel"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-universo-licitacoes2.webp",
+                    "./assets/img/web/site-universo-licitacoes3.webp",
+                    "./assets/img/web/site-universo-licitacoes4.webp"
+                ],
+                "link": "https://ranking.bhz.br/2025/universolicitacoes/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Fortio - Intelligent Logistics",
+            "description": "Development of a new institutional website focused on audience segmentation and strategic brand repositioning in the logistics market.",
+            "imageUrl": "./assets/img/web/site-fortio.webp",
+            "details": {
+                "fullDescription": "Fortio is a key link in the Brazilian logistics chain, connecting independent truck drivers to major shippers through technological solutions. The challenge was to fix the gap between the company's robustness and its outdated digital presence. I conducted an in-depth interface and typography study based on the brand's visual identity, leading to an authentic advertising campaign that served as the foundation for the new site. My work unified the company's language: the site now speaks directly to two distinct profiles assertively, turning the platform into a hub of trust and authority that accelerates new business and partnerships.",
+                "technologies": [
+                    "WordPress",
+                    "PHP",
+                    "Figma (UI/UX Design)",
+                    "HTML5",
+                    "CSS3",
+                    "Strategic Copywriting",
+                    "SEO Strategy",
+                    "cPanel"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-fortio.webp",
+                    "./assets/img/web/site-fortio2.webp"
+                ],
+                "link": "https://ranking.bhz.br/2025/fortio/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Volts Seguradora",
+            "description": "Creation of the first digital identity for Volts, focused on consolidating authority for the new brand and highlighting its services in the insurance sector.",
+            "imageUrl": "./assets/img/web/site-volts.webp",
+            "details": {
+                "fullDescription": "Volts Seguradora entered the market with the challenge of establishing trust and solidity from day one. As the company's first institutional site, I developed a high-impact branding project, combining a modern interface study with typography that conveys security. The strategic differentiator was an integrated advertising campaign that served as the basis for the site's positioning, ensuring visual and textual communication were in total harmony with the brand's reality. Developed in WordPress, the new site not only presents services clearly but provides Volts with a proprietary digital presence that positions it as a safe and innovative choice against established competitors.",
+                "technologies": [
+                    "WordPress",
+                    "PHP",
+                    "Figma (UI/UX)",
+                    "Strategic Branding",
+                    "Copywriting",
+                    "HTML5",
+                    "CSS3",
+                    "JavaScript",
+                    "Performance Optimization"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-volts.webp",
+                    "./assets/img/web/site-volts-full.webp"
+                ],
+                "link": "https://voltsseguradora.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Tecnofluid - Industrial E-commerce",
+            "description": "Complete revitalization of the WooCommerce store, focused on optimizing the buyer's journey and strengthening digital authority in the industrial sector.",
+            "imageUrl": "./assets/img/web/site-tecnofluid.webp",
+            "details": {
+                "fullDescription": "Tecnofluid is a benchmark in industrial solutions, where technical precision and trust are fundamental. The challenge was transforming an obsolete online store into a high-performance sales platform. I conducted an interface study focused on information hierarchy and ease of navigation for technical products, utilizing the corporate identity to create a professional digital environment. The project was guided by a strategic advertising campaign that anchored the site's new positioning. With custom WordPress and WooCommerce development, the result was a fluid and secure shopping experience that elevated Tecnofluid's professionalism and bridged the gap between complex products and customer needs.",
+                "technologies": [
+                    "WordPress",
+                    "WooCommerce",
+                    "PHP",
+                    "Figma (UI/UX)",
+                    "E-commerce Strategy",
+                    "HTML5",
+                    "CSS3",
+                    "Technical Copywriting",
+                    "Digital Inventory Management"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-tecnofluid.webp",
+                    "./assets/img/web/site-tecnofluid-full.webp"
+                ],
+                "link": "https://ranking.bhz.br/2021/tecnofluid/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> RM Polimentos",
+            "description": "Full overhaul of the brand's digital presence, focused on visual modernization and conversion journey optimization for high-end services.",
+            "imageUrl": "./assets/img/web/site-rm-polimentos.webp",
+            "details": {
+                "fullDescription": "RM Polimentos specializes in the restoration and treatment of noble surfaces, catering to an audience that values aesthetics and durability. The total site redesign was motivated by the need to align the company's digital image with the sophistication of its marble and granite services. I developed a minimalist and elegant interface where the main focus is on visual results, conveying immediate trust and authority. The impact of my strategic web design work was the creation of a luxury digital showcase that not only modernized the brand but significantly raised the perceived value of services, attracting more qualified and professional leads.",
+                "technologies": [
+                    "WordPress",
+                    "PHP",
+                    "Figma (UI/UX Design)",
+                    "HTML5",
+                    "CSS3",
+                    "Technical SEO",
+                    "Image Optimization",
+                    "Digital Branding"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-rm-polimentos.webp",
+                    "./assets/img/web/site-rm-polimentos-full.webp"
+                ],
+                "link": "https://ranking.bhz.br/2025/rmpolimentos/"
+            }
+        },
+        {
+            "title": "H2 Finance - Strategic Consulting",
+            "description": "Creation of a high-conversion Landing Page designed for the brand's launch in the financial market, with a total focus on authority and lead generation.",
+            "imageUrl": "./assets/img/web/site-h2.webp",
+            "details": {
+                "fullDescription": "H2 Finance is a company born to offer intelligent and uncomplicated financial solutions for the corporate sector. As the starting point of the brand's digital presence, I developed a strategic landing page that prioritizes value proposition clarity and ease of contact (CTA). The work involved structuring an information architecture focused on UX (User Experience), ensuring potential clients understand the company's stability within seconds of browsing. This project was vital for the brand launch: the strategic design gave H2 Finance the image of an established and trustworthy institution, transforming the landing page into the primary gateway for new business and strategic partnerships.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor Pro",
+                    "Figma (UI/UX Design)",
+                    "Conversion Copywriting",
+                    "HTML5",
+                    "CSS3",
+                    "On-Page SEO",
+                    "Performance Optimization"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-h2.webp",
+                    "./assets/img/web/site-h2-full.webp"
+                ],
+                "link": "https://h2finance.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Trindade Mutual",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://trindademutual.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Líder Medidores",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://lidermedidores.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Conti Consultoria",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://conticonsultoria.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> RH Conti Consultoria",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://rh.conticonsultoria.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Pensamente Psicologia",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "pensamentepsicologia.com.br"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Star Licitações",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://starlicitacoes.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Gráfica GGS",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://www.graficaggs.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Autoescola Maia",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://www.graficaggs.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Inove Joy",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://www.graficaggs.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Amave",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://www.graficaggs.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Fábrica da Bolacha de Chopp",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://www.graficaggs.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Soluster",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://www.graficaggs.com.br/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Pimenta Perícias",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://ranking.bhz.br/2026/pimentapericias/"
+            }
+        },
+        {
+            "title": "<span class='badge-new'>NEW</span> Vivian Bellezia Advocacia",
+            "description": "Project under development",
+            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "details": {
+                "fullDescription": "Project under development",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "cPanel",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-em-breve.jpeg",
+                    "./assets/img/web/site-em-breve.jpeg"
+                ],
+                "link": "https://ranking.bhz.br/2025/dravivian/"
+            }
+        },
+        {
+            "title": "acsimao.com",
+            "description": "Website development; security and usability testing; UI design and SEO-focused advertising campaign. Built with a mobile-first approach and high-usability focus.",
+            "imageUrl": "./assets/img/web/site-acsimao.webp",
+            "details": {
+                "fullDescription": "Implementation of performance configurations and Google site indexing using advanced SEO techniques.",
+                "technologies": [
+                    "WordPress",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-acsimao.webp"
+                ],
+                "link": "https://acsimao.com"
+            }
+        },
+        {
+            "title": "anamonteiro.adv.br",
+            "description": "Creation and implementation of custom landing page layouts for digital marketing campaigns.",
+            "imageUrl": "./assets/img/web/site-ana-monteiro.webp",
+            "details": {
+                "fullDescription": "Layout creation and implementation for high-conversion landing pages focused on marketing disclosure.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "Google Analytics TAGs",
+                    "Google Maps API",
+                    "WhatsApp API"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-ana-monteiro.webp"
+                ],
+                "link": "https://anamonteiro.adv.br"
+            }
+        },
+        {
+            "title": "agocursos.com.br",
+            "description": "Website development; planning and execution of comprehensive security and usability testing.",
+            "imageUrl": "./assets/img/web/site-ago-cursos.webp",
+            "details": {
+                "fullDescription": "Full-cycle website development including rigorous security auditing and usability planning.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WAFs",
+                    "PHP",
+                    "JS",
+                    "HTML",
+                    "CSS",
+                    "PageSpeed Insights",
+                    "BurpSuite",
+                    "Wireshark",
+                    "NMAP",
+                    "Maltego",
+                    "Nikto"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-ago-cursos.webp"
+                ],
+                "link": "https://agocursos.com.br"
+            }
+        },
+        {
+            "title": "benandjerry.com.br",
+            "description": "Conducted usability (UX) and performance tests on a specialized User Testing platform.",
+            "imageUrl": "./assets/img/web/site-ben-and-jerry.webp",
+            "details": {
+                "fullDescription": "Execution of performance audits and UX usability assessments via remote testing platforms.",
+                "technologies": [
+                    "HTML",
+                    "CSS",
+                    "DevTools"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-ben-and-jerry.webp"
+                ],
+                "link": "https://benandjerry.com.br"
+            }
+        },
+        {
+            "title": "zmdy.github.io/aulas.txt",
+            "description": "Development of a static website using Hexo for distributing IT and Administration educational materials.",
+            "imageUrl": "./assets/img/web/site-aulas-txt.webp",
+            "details": {
+                "fullDescription": "Static site generation with Hexo to facilitate content delivery for technology and management students.",
+                "technologies": [
+                    "Markdown",
+                    "Hexo",
+                    "CSS",
+                    "JS",
+                    "Git/GitHub"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-aulas-txt.webp"
+                ],
+                "link": "https://zmdy.github.io/aulas.txt"
+            }
+        },
+        {
+            "title": "Arduino Signals",
+            "description": "A web-based oscilloscope project designed for Arduino hardware interaction.",
+            "imageUrl": "./assets/img/web/site-arduino-signals.webp",
+            "details": {
+                "fullDescription": "Development of a browser-based visualization tool to process and display Arduino signals in real-time.",
+                "technologies": [
+                    "Arduino",
+                    "PHP",
+                    "JS",
+                    "HTML",
+                    "CSS",
+                    "Git/GitHub"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-arduino-signals.webp"
+                ],
+                "link": ""
+            }
+        },
+        {
+            "title": "AstroCalc",
+            "description": "A web-based calculator project built for Astronomy enthusiasts and students.",
+            "imageUrl": "./assets/img/web/site-astrocalc.webp",
+            "details": {
+                "fullDescription": "Interactive web tool designed to solve complex astronomical formulas and calculations.",
+                "technologies": [
+                    "JS",
+                    "HTML",
+                    "CSS",
+                    "Git/GitHub"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-astrocalc.webp"
+                ],
+                "link": ""
+            }
+        },
+        {
+            "title": "Bonisa",
+            "description": "A framework project created to transform text files (txt, markdown) into interactive slide presentations.",
+            "imageUrl": "./assets/img/web/site-bonisa.webp",
+            "details": {
+                "fullDescription": "Dynamic tool using RegEx and JS to parse text-based content into structured visual presentations.",
+                "technologies": [
+                    "Markdown",
+                    "RegEx",
+                    "JS",
+                    "HTML",
+                    "CSS",
+                    "Git/GitHub"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-bonisa.webp"
+                ],
+                "link": ""
+            }
+        },
+        {
+            "title": "fernandabaldanza.adv.br",
+            "description": "Implementation of UI/UX layout improvements for a legal practice website.",
+            "imageUrl": "./assets/img/web/site-fernanda-baldanza.webp",
+            "details": {
+                "fullDescription": "Aesthetic and functional enhancements to the existing WordPress layout to improve professional credibility.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "CSS",
+                    "WhatsApp API"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-fernanda-baldanza.webp"
+                ],
+                "link": "https://fernandabaldanza.adv.br"
+            }
+        },
+        {
+            "title": "ferrazadvocaciato.com",
+            "description": "Website restoration and implementation of layout adjustments.",
+            "imageUrl": "./assets/img/web/site-ferraz-advocacia.webp",
+            "details": {
+                "fullDescription": "Complete site recovery and visual fine-tuning for a legal firm.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "CSS",
+                    "WhatsApp API"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-ferraz-advocacia.webp"
+                ],
+                "link": "https://ferrazadvocaciato.com"
+            }
+        },
+        {
+            "title": "ganepao.com.br",
+            "description": "Coding and styling for the layout used in the Ganepão 2021 Congress website and mobile app.",
+            "imageUrl": "./assets/img/web/site-ganepao-eventsmobi.webp",
+            "details": {
+                "fullDescription": "Front-end styling and CSS customization for a large-scale medical event platform.",
+                "technologies": [
+                    "CSS"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-ganepao-eventsmobi.webp"
+                ],
+                "link": "https://ganepao.com.br"
+            }
+        },
+        {
+            "title": "grupocni.com.br",
+            "description": "Institutional website rebranding; planning and execution of comprehensive security and usability tests.",
+            "imageUrl": "./assets/img/web/site-grupo-cni.webp",
+            "details": {
+                "fullDescription": "Visual rebranding coupled with a rigorous security audit including penetration testing and vulnerability scans.",
+                "technologies": [
+                    "WordPress",
+                    "WAFs",
+                    "PHP",
+                    "JS",
+                    "HTML",
+                    "CSS",
+                    "PageSpeed Insights",
+                    "BurpSuite",
+                    "Wireshark",
+                    "NMAP",
+                    "Maltego",
+                    "Nikto",
+                    "WPScan"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-grupo-cni.webp"
+                ],
+                "link": "https://grupocni.com.br"
+            }
+        },
+        {
+            "title": "jaymepena.com.br",
+            "description": "Implementation of landing page layouts for digital marketing campaign disclosure.",
+            "imageUrl": "./assets/img/web/site-jayme-pena-landing.webp",
+            "details": {
+                "fullDescription": "Strategic layout implementation focused on lead generation for marketing funnels.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "CSS",
+                    "WhatsApp API"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-jayme-pena-landing.webp"
+                ],
+                "link": "https://jaymepena.com.br"
+            }
+        },
+        {
+            "title": "jeanlimaadvocacia.com.br",
+            "description": "Website publication and hosting configuration. Implementation of SEO, performance, and security strategies.",
+            "imageUrl": "./assets/img/web/site-jean-lima.webp",
+            "details": {
+                "fullDescription": "End-to-end setup including web hosting management, technical SEO, and performance hardening.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WhatsApp API",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-jean-lima.webp"
+                ],
+                "link": "https://jeanlimaadvocacia.com.br"
+            }
+        },
+        {
+            "title": "jefersonribeiro.adv.br",
+            "description": "Website publication and hosting configuration. Implementation of SEO, performance, and security strategies.",
+            "imageUrl": "./assets/img/web/site-jeferson-ribeiro.webp",
+            "details": {
+                "fullDescription": "Deployment and technical optimization focused on visibility and load speed for a legal firm.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WhatsApp API",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-jeferson-ribeiro.webp"
+                ],
+                "link": "https://jefersonribeiro.adv.br"
+            }
+        },
+        {
+            "title": "lucasbento.adv.br",
+            "description": "Article insertion and blog management for marketing campaign promotion.",
+            "imageUrl": "./assets/img/web/site-lucas-bento.webp",
+            "details": {
+                "fullDescription": "Content management and layout optimization for blog posts used in digital outreach.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "HTML",
+                    "CSS"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-lucas-bento.webp"
+                ],
+                "link": "https://lucasbento.adv.br"
+            }
+        },
+        {
+            "title": "mondegoengenharia.com",
+            "description": "Website publication and hosting configuration. Implementation of SEO, performance, and security strategies.",
+            "imageUrl": "./assets/img/web/site-mondego-engenharia.webp",
+            "details": {
+                "fullDescription": "Professional hosting setup and technical SEO deployment for an engineering firm.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WhatsApp API",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-mondego-engenharia.webp"
+                ],
+                "link": "https://mondegoengenharia.com"
+            }
+        },
+        {
+            "title": "origna.com.br",
+            "description": "Website publication and hosting configuration. Implementation of SEO, performance, and security strategies.",
+            "imageUrl": "./assets/img/web/site-origna.webp",
+            "details": {
+                "fullDescription": "Technical deployment and platform optimization for brand authority.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WhatsApp API",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-origna.webp"
+                ],
+                "link": "https://origna.com.br"
+            }
+        },
+        {
+            "title": "oticajzglasses.com.br",
+            "description": "Website publication and hosting configuration. Layout adjustments to improve user experience.",
+            "imageUrl": "./assets/img/web/site-otica-jz-glasses.webp",
+            "details": {
+                "fullDescription": "Maintenance and hosting setup coupled with UI refinements for an eyewear brand.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WhatsApp API",
+                    "Google Site Kit"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-otica-jz-glasses.webp"
+                ],
+                "link": "https://oticajzglasses.com.br"
+            }
+        },
+        {
+            "title": "agocursos.com.br/app",
+            "description": "Platform development and deployment; planning and execution of security and usability testing.",
+            "imageUrl": "./assets/img/web/site-plataforma-ago.webp",
+            "details": {
+                "fullDescription": "Full-cycle development and launch of the educational platform, including specialized security audits and usability planning to ensure a seamless learning experience.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WooCommerce",
+                    "LearnPress",
+                    "WAFs",
+                    "PHP",
+                    "JS",
+                    "HTML",
+                    "CSS",
+                    "PageSpeed Insights",
+                    "BurpSuite",
+                    "Wireshark",
+                    "NMAP",
+                    "Maltego",
+                    "Nikto"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-plataforma-ago.webp"
+                ],
+                "link": "https://agocursos.com.br/app"
+            }
+        },
+        {
+            "title": "Simcir JS",
+            "description": "Implementation of new components and logo design for the SimcirJS digital circuit simulator.",
+            "imageUrl": "./assets/img/web/site-simcirjs.webp",
+            "details": {
+                "fullDescription": "Enhanced the SimcirJS digital circuit simulator by implementing new functional components and designing a custom visual identity/logo.",
+                "technologies": [
+                    "JS",
+                    "HTML",
+                    "CSS",
+                    "Git/GitHub",
+                    "SVG"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-simcirjs.webp"
+                ],
+                "link": ""
+            }
+        },
+        {
+            "title": "agocursos.com.br (YOURLS)",
+            "description": "Installation and configuration of a custom link shortener using YOURLS.",
+            "imageUrl": "./assets/img/web/site-yourls-ago.webp",
+            "details": {
+                "fullDescription": "Setup and customization of a private link shortening service (YOURLS) to provide branded, trackable URLs for marketing and internal use.",
+                "technologies": [
+                    "YOURLS",
+                    "PHP",
+                    "MySQL",
+                    "CSS",
+                    "Sleeky"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-yourls-ago.webp"
+                ],
+                "link": "https://agocursos.com.br"
+            }
+        },
+        {
+            "title": "psicodivertidamente.com.br",
+            "description": "Website publication and hosting configuration. Implementation of SEO, performance, and security strategies.",
+            "imageUrl": "./assets/img/web/site-psicodivertidamente.webp",
+            "details": {
+                "fullDescription": "Full deployment and optimization of the digital platform, focusing on technical SEO, security hardening, and high-performance loading scores.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WhatsApp API",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-psicodivertidamente.webp"
+                ],
+                "link": "https://psicodivertidamente.com.br"
+            }
+        },
+        {
+            "title": "rosaluzboutique.com.br",
+            "description": "Website publication and hosting configuration. Implementation of SEO, performance, and security strategies.",
+            "imageUrl": "./assets/img/web/site-rosa-luz-boutique.webp",
+            "details": {
+                "fullDescription": "End-to-end hosting setup and technical optimization, ensuring the brand maintains a secure and fast digital presence with solid SEO foundations.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WhatsApp API",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-rosa-luz-boutique.webp"
+                ],
+                "link": "https://rosaluzboutique.com.br"
+            }
+        },
+        {
+            "title": "wrsa.adv.br",
+            "description": "Debugging and resolving WhatsApp plugin incompatibilities for iOS devices; implementation of landing page layouts.",
+            "imageUrl": "./assets/img/web/site-wrsa.webp",
+            "details": {
+                "fullDescription": "Technical troubleshooting of cross-platform plugin issues (specifically iOS/Apple compatibility) and the design/implementation of high-conversion landing pages.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WhatsApp API",
+                    "JS",
+                    "PHP"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-wrsa.webp"
+                ],
+                "link": "https://wrsa.adv.br"
+            }
+        },
+        {
+            "title": "zillionempreendedorismo.com.br",
+            "description": "Website publication and hosting configuration. Implementation of SEO, performance, and security strategies.",
+            "imageUrl": "./assets/img/web/site-zillion.webp",
+            "details": {
+                "fullDescription": "Strategic deployment including web hosting management and the implementation of performance and security protocols for an entrepreneurship-focused platform.",
+                "technologies": [
+                    "WordPress",
+                    "Elementor",
+                    "WhatsApp API",
+                    "Let's Encrypt",
+                    "Google Site Kit",
+                    "PageSpeed Insights"
+                ],
+                "gallery": [
+                    "./assets/img/web/site-zillion.webp"
+                ],
+                "link": "https://zillionempreendedorismo.com.br"
+            }
+        }
+    ],
+    "designProjects": [
+        {
+            "title": "Horizonte Cursos - Rebranding",
+            "description": "Logo rebranding for a vocational school.",
+            "imageUrl": "./assets/img/design/projetos_g227.webp",
+            "details": {
+                "fullDescription": "This project involved creating a complete visual identity, including a logo overhaul, color palette definition, and typography selection for a vocational training institution.",
+                "technologies": [
+                    "Figma",
+                    "Corel Draw",
+                    "Adobe Photoshop"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g225.webp",
+                    "./assets/img/design/projetos_g226.webp",
+                    "./assets/img/design/projetos_g224.webp",
+                    "./assets/img/design/projetos_g223.gif"
+                ],
+                "link": "https://www.instagram.com/horizontecursos_/"
+            }
+        },
+        {
+            "title": "Horizonte Cursos - Corporate Template",
+            "description": "PowerPoint template design for pedagogical content production.",
+            "imageUrl": "./assets/img/design/projetos_g221.webp",
+            "details": {
+                "fullDescription": "Creation of a corporate PowerPoint template focused on educational content, aiming to standardize the school's visual identity across all teaching materials and communications.",
+                "technologies": [
+                    "Corel Draw",
+                    "Adobe Photoshop",
+                    "Microsoft PowerPoint"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g221.webp",
+                    "./assets/img/design/projetos_g222.webp",
+                    "./assets/img/design/projetos_g224.webp"
+                ],
+                "link": "https://horizontecursos.com.br/"
+            }
+        },
+        {
+            "title": "Africa Perceptions",
+            "description": "Logo design for a university symposium.",
+            "imageUrl": "./assets/img/design/projetos_g220.webp",
+            "details": {
+                "fullDescription": "Visual identity and logo design for the 'Africa Perceptions' university symposium, including visual standardization for the event's promotional materials.",
+                "technologies": [
+                    "Inkscape",
+                    "Adobe Photoshop",
+                    "Figma"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g219.webp",
+                    "./assets/img/design/projetos_g220.webp",
+                    "./assets/img/design/projetos_g218.webp"
+                ],
+                "link": "https://zmdy.github.io/africa-perceptions"
+            }
+        },
+        {
+            "title": "Cybernow - Visual Identity Design",
+            "description": "Identity creation for a custom printing company based in Belo Horizonte.",
+            "imageUrl": "./assets/img/design/projetos_g216.webp",
+            "details": {
+                "fullDescription": "Comprehensive visual identity project including logo, color theory, and typography for a local shop specializing in personalized printed products.",
+                "technologies": [
+                    "Figma",
+                    "Corel Draw",
+                    "Adobe Illustrator"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g216.webp",
+                    "./assets/img/design/projetos_g207.webp",
+                    "./assets/img/design/projetos_g215.webp",
+                    "./assets/img/design/projetos_g217.webp"
+                ],
+                "link": "http://cybernow.com.br/"
+            }
+        },
+        {
+            "title": "Oncoclínicas & Co. - Corporate Email Template",
+            "description": "Email template design for corporate communication and internal newsletters.",
+            "imageUrl": "./assets/img/design/projetos_g126.webp",
+            "details": {
+                "fullDescription": "Development of a corporate email template for Oncoclínicas & Co. to standardize internal and external communications, ensuring visual consistency across the group.",
+                "technologies": [
+                    "HTML",
+                    "CSS",
+                    "Figma"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g69.webp",
+                    "./assets/img/design/projetos_g70.webp",
+                    "./assets/img/design/projetos_g126.webp"
+                ],
+                "link": "https://grupooncoclinicas.com/"
+            }
+        },
+        {
+            "title": "Oncoclínicas & Co. - PowerPoint Template",
+            "description": "Technical presentation and reporting template for the IT Governance department.",
+            "imageUrl": "./assets/img/design/projetos_g128.webp",
+            "details": {
+                "fullDescription": "Custom Microsoft PowerPoint template designed for technical reports and presentations for the IT Governance sector, focusing on data clarity and visual standardization.",
+                "technologies": [
+                    "Figma",
+                    "Microsoft PowerPoint",
+                    "Corel Draw"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g71.webp",
+                    "./assets/img/design/projetos_g127.webp",
+                    "./assets/img/design/projetos_g128.webp"
+                ],
+                "link": "https://grupooncoclinicas.com/"
+            }
+        },
+        {
+            "title": "Ago Cursos - Academic Events Identity",
+            "description": "PowerPoint template design for symposiums and online academic events.",
+            "imageUrl": "./assets/img/design/projetos_g250.webp",
+            "details": {
+                "fullDescription": "Visual identity and layout development for Ago Cursos' online academic series, providing standardized presentation designs for various webinars and workshops.",
+                "technologies": [
+                    "Figma",
+                    "Corel Draw",
+                    "Microsoft PowerPoint"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g250.webp"
+                ],
+                "link": "https://www.instagram.com/agocursos/"
+            }
+        },
+        {
+            "title": "Ago Cursos - Mammography Symposium",
+            "description": "Visual identity and presentation design for an online Radiology symposium.",
+            "imageUrl": "./assets/img/design/projetos_g258.webp",
+            "details": {
+                "fullDescription": "Specific visual identity for the Mammography Symposium, including PowerPoint templates designed to convey professionalism to a specialized Radiology audience.",
+                "technologies": [
+                    "Figma",
+                    "Corel Draw",
+                    "Microsoft PowerPoint"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g258.webp"
+                ],
+                "link": "https://www.youtube.com/live/ENoaLGRDZ1o"
+            }
+        },
+        {
+            "title": "Ago Cursos - 'Back to School' Symposium",
+            "description": "Visual identity and presentation assets for an online Radiology event.",
+            "imageUrl": "./assets/img/design/projetos_g274.webp",
+            "details": {
+                "fullDescription": "Development of visual assets and presentation templates for the 'Volta às Aulas' (Back to School) event, focused on the Radiology academic community.",
+                "technologies": [
+                    "Figma",
+                    "Corel Draw",
+                    "Microsoft PowerPoint"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g274.webp"
+                ],
+                "link": "https://www.youtube.com/live/4ymPyzO_CCE"
+            }
+        },
+        {
+            "title": "Ago Cursos - Holiday Symposium",
+            "description": "Dynamic visual identity for an online Radiology summer event.",
+            "imageUrl": "./assets/img/design/projetos_g290.webp",
+            "details": {
+                "fullDescription": "Creation of engaging PowerPoint templates and visual identity for the 'Simpósio de Férias', designed to be dynamic and appealing for online Radiology education.",
+                "technologies": [
+                    "Figma",
+                    "Corel Draw",
+                    "Microsoft PowerPoint"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g290.webp"
+                ],
+                "link": "https://www.youtube.com/live/PROJ1r7eIg8"
+            }
+        },
+        {
+            "title": "Ago Cursos - Academic Workshop Series",
+            "description": "Presentation template design for online Radiology workshops.",
+            "imageUrl": "./assets/img/design/projetos_g266.webp",
+            "details": {
+                "fullDescription": "Development of the visual identity for online academic workshops, including presentation layouts and graphic materials for Radiology specialists.",
+                "technologies": [
+                    "Figma",
+                    "Corel Draw",
+                    "Microsoft PowerPoint"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g266.webp"
+                ],
+                "link": "https://www.youtube.com/live/3YS2Ar0TJoQ"
+            }
+        },
+        {
+            "title": "Ago Cursos - Radiotherapy Symposium",
+            "description": "PowerPoint template and visual identity for an online medical symposium.",
+            "imageUrl": "./assets/img/design/projetos_g289.webp",
+            "details": {
+                "fullDescription": "Design of specialized presentation templates for the Radiotherapy Symposium, ensuring a consistent and high-standard visual experience for the clinical audience.",
+                "technologies": [
+                    "Figma",
+                    "Corel Draw",
+                    "Microsoft PowerPoint"
+                ],
+                "gallery": [
+                    "./assets/img/design/projetos_g289.webp"
+                ],
+                "link": "https://www.youtube.com/live/3YS2Ar0TJoQ"
+            }
+        }
+    ]
+}
