@@ -219,278 +219,221 @@
     },
     {
       "title": "<span class='badge-new'>NEW</span> Trindade Mutual",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Manutenção técnica e adequação do website à LGPD.",
+      "imageUrl": "./assets/img/web/site-trindade.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Manutenção preventiva e corretiva da plataforma WordPress, com foco na adequação técnica à Lei Geral de Proteção de Dados (LGPD), incluindo gestão de cookies e políticas de privacidade.",
         "technologies": [
           "WordPress",
-          "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "LGPD",
+          "PHP",
+          "Segurança Digital",
+          "Gestão de Cookies"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-trindade.webp"
         ],
         "link": "https://trindademutual.com.br/"
       }
     },
     {
       "title": "<span class='badge-new'>NEW</span> Líder Medidores",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Publicação e configuração do site em servidor de hospedagem.",
+      "imageUrl": "./assets/img/web/site-lidermedidores.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Execução do deploy e configuração completa do ambiente de produção, incluindo ajustes de DNS, certificados SSL e otimização inicial de servidor para o lançamento do site.",
         "technologies": [
           "WordPress",
-          "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "Hospedagem Web",
+          "DNS",
+          "SSL",
+          "FTP/SFTP"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-lidermedidores.webp"
         ],
         "link": "https://lidermedidores.com.br/"
       }
     },
     {
       "title": "<span class='badge-new'>NEW</span> Conti Consultoria",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Gestão de conteúdo e atualizações constantes do portal.",
+      "imageUrl": "./assets/img/web/site-conti.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Manutenção recorrente do site corporativo, envolvendo a publicação de artigos, atualização de serviços e otimização de posts para garantir o dinamismo da plataforma.",
         "technologies": [
           "WordPress",
-          "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "Gestão de Conteúdo",
+          "SEO",
+          "Web Design"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-conti.webp"
         ],
         "link": "https://conticonsultoria.com.br/"
       }
     },
     {
       "title": "<span class='badge-new'>NEW</span> RH Conti Consultoria",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Atualização de vagas e gestão de conteúdo para o portal de RH.",
+      "imageUrl": "./assets/img/web/site-conti-rh.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Administração técnica do subdomínio de RH, com foco na publicação dinâmica de vagas de emprego e artigos informativos sobre o mercado de trabalho.",
         "technologies": [
           "WordPress",
-          "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "Gestão de Vagas",
+          "Marketing de Conteúdo",
+          "PHP"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-conti-rh.webp"
         ],
         "link": "https://rh.conticonsultoria.com.br/"
       }
     },
     {
-      "title": "<span class='badge-new'>NEW</span> Pensamente Psicologia ",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "title": "<span class='badge-new'>NEW</span> Pensamente Psicologia",
+      "description": "Atualizações técnicas e manutenção de conteúdo.",
+      "imageUrl": "./assets/img/web/site-pensamente.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Realização de atualizações periódicas no website para garantir a estabilidade da plataforma, segurança dos dados e relevância do conteúdo apresentado aos pacientes.",
         "technologies": [
           "WordPress",
           "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "PHP",
+          "Manutenção Web"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-pensamente.webp"
         ],
-        "link": "pensamentepsicologia.com.br"
+        "link": "https://pensamentepsicologia.com.br"
       }
     },
     {
-      "title": "<span class='badge-new'>NEW</span> Star Licitações",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "title": "<span class='badge-new'>NEW</span> Star Licitacoes",
+      "description": "Gestão de catálogo de cursos e reformulação de interface (Slider).",
+      "imageUrl": "./assets/img/web/site-star-licitacoes.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Manutenção constante da grade de cursos oferecidos e reformulação estratégica do slider principal para melhorar a comunicação visual e o engajamento dos usuários com as ofertas de capacitação.",
         "technologies": [
           "WordPress",
           "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "Smart Slider 3",
+          "Design de Interface"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-star-licitacoes.webp"
         ],
-        "link": "https://starlicitacoes.com.br/"
+        "link": "https://starlicitacoes.com.br"
       }
     },
     {
       "title": "<span class='badge-new'>NEW</span> Gráfica GGS",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Manutenção de e-commerce e atualização de catálogo via WooCommerce.",
+      "imageUrl": "./assets/img/web/site-grafica-ggs-produtos.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Gestão operacional da loja virtual, incluindo a publicação e atualização constante do portfólio de produtos personalizados, garantindo o funcionamento correto do fluxo de vendas.",
         "technologies": [
           "WordPress",
-          "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "WooCommerce",
+          "E-commerce",
+          "Gestão de Inventário"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-grafica-ggs-produtos.webp"
         ],
         "link": "https://www.graficaggs.com.br/"
       }
     },
     {
       "title": "<span class='badge-new'>NEW</span> Autoescola Maia",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Reformulação completa e modernização do website.",
+      "imageUrl": "./assets/img/web/site-autoescola-maia.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Redesign estratégico focado em melhorar a experiência do usuário (UX) e a conversão de novos alunos. O novo site trouxe uma interface mais limpa, responsiva e otimizada para dispositivos móveis.",
         "technologies": [
           "WordPress",
           "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "SEO Local",
+          "Design Responsivo"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-autoescola-maia.webp"
         ],
-        "link": "https://www.graficaggs.com.br/"
+        "link": "https://autoescolamaia.com.br/"
       }
     },
     {
       "title": "<span class='badge-new'>NEW</span> Inove Joy",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Reformulação visual e estrutural do portal.",
+      "imageUrl": "./assets/img/web/site-inovejoy.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Projeto de reformulação total para alinhar o site aos novos objetivos de comunicação da marca, focando em usabilidade e em uma estética moderna que transmita mais confiança ao público.",
         "technologies": [
           "WordPress",
           "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "UI/UX Design",
+          "Otimização de Performance"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-inovejoy.webp"
         ],
-        "link": "https://www.graficaggs.com.br/"
+        "link": "https://inovejoy.com.br/"
       }
     },
     {
       "title": "<span class='badge-new'>NEW</span> Amave",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Reformulação do portal institucional da associação.",
+      "imageUrl": "./assets/img/web/site-amave.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Atualização da presença digital da Amave, com foco na organização das informações institucionais e facilitação do acesso aos serviços oferecidos pela associação aos seus membros.",
         "technologies": [
           "WordPress",
           "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "Arquitetura de Informação",
+          "Acessibilidade"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-amave.webp"
         ],
-        "link": "https://www.graficaggs.com.br/"
+        "link": "https://amave.org.br/"
       }
     },
     {
       "title": "<span class='badge-new'>NEW</span> Fábrica da Bolacha de Chopp",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Criação de website institucional integrado a loja online (WooCommerce).",
+      "imageUrl": "./assets/img/web/site-bolacha-chopp.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Desenvolvimento completo 'do zero', unindo uma vitrine institucional impactante com um sistema de e-commerce robusto para a venda de produtos personalizados, com fluxos de pagamento e frete configurados.",
         "technologies": [
           "WordPress",
-          "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "WooCommerce",
+          "E-commerce",
+          "PHP",
+          "Gateway de Pagamentos"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-bolacha-chopp.webp"
         ],
-        "link": "https://www.graficaggs.com.br/"
+        "link": "http://fabricadabolachadechopp.com.br/"
       }
     },
     {
       "title": "<span class='badge-new'>NEW</span> Soluster",
-      "description": "Projeto em desenvolvimento",
-      "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+      "description": "Manutenção técnica e suporte contínuo da plataforma.",
+      "imageUrl": "./assets/img/web/site-soluster.webp",
       "details": {
-        "fullDescription": "Projeto em desenvolvimento",
+        "fullDescription": "Suporte técnico contínuo para garantir a estabilidade, segurança e o desempenho do site, realizando atualizações de segurança e ajustes pontuais conforme a necessidade do negócio.",
         "technologies": [
           "WordPress",
-          "Elementor",
-          "cPanel",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Let's Encrypt",
-          "Google Site Kit",
-          "PageSpeed Insights"
+          "Manutenção Corretiva",
+          "Segurança",
+          "Otimização de Servidor"
         ],
         "gallery": [
-          "./assets/img/web/site-em-breve.jpeg",
-          "./assets/img/web/site-em-breve.jpeg"
+          "./assets/img/web/site-soluster.webp"
         ],
-        "link": "https://www.graficaggs.com.br/"
+        "link": "https://soluster.com.br/"
       }
     },
     {

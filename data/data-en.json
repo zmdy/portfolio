@@ -80,10 +80,10 @@
     "webProjects": [
         {
             "title": "<span class='badge-new'>NEW</span> Universo Licitações",
-            "description": "Complete modernization of the brand's digital ecosystem, featuring a new institutional website and internal system optimization for maximum efficiency.",
+            "description": "Complete modernization of the brand's digital ecosystem through the development of a new institutional website and internal system optimization for maximum efficiency.",
             "imageUrl": "./assets/img/web/site-universo-licitacoes.webp",
             "details": {
-                "fullDescription": "Universo Licitações is a consultancy specializing in bidding processes, a sector that demands utmost reliability and seriousness. The project involved a deep User Interface (UI) study to create a custom, high-performance template, hand-coded with HTML/CSS/JS and an ASP backend. We replaced an obsolete platform with a modern solution that not only improved navigation but also repositioned the company as a market authority, directly impacting brand value perception and internal workflow agility.",
+                "fullDescription": "Universo Licitações is a consultancy specializing in bidding processes, a sector that demands maximum seriousness and trust. The project involved a deep UI study to create an exclusive, high-performance template, custom-coded in HTML/CSS/JS with an ASP backend. We replaced an obsolete platform with a modern solution that not only improved user navigation but also repositioned the company as a market authority, directly impacting brand value perception and internal process agility through the new optimized system.",
                 "technologies": [
                     "ASP",
                     "Figma",
@@ -101,11 +101,11 @@
             }
         },
         {
-            "title": "<span class='badge-new'>NEW</span> Fortio - Intelligent Logistics",
+            "title": "<span class='badge-new'>NEW</span> Fortio - Smart Logistics",
             "description": "Development of a new institutional website focused on audience segmentation and strategic brand repositioning in the logistics market.",
             "imageUrl": "./assets/img/web/site-fortio.webp",
             "details": {
-                "fullDescription": "Fortio is a key link in the Brazilian logistics chain, connecting independent truck drivers to major shippers through technological solutions. The challenge was to fix the gap between the company's robustness and its outdated digital presence. I conducted an in-depth interface and typography study based on the brand's visual identity, leading to an authentic advertising campaign that served as the foundation for the new site. My work unified the company's language: the site now speaks directly to two distinct profiles assertively, turning the platform into a hub of trust and authority that accelerates new business and partnerships.",
+                "fullDescription": "Fortio is a key link in the Brazilian logistics chain, connecting independent drivers to large shippers through technological solutions. The challenge was to correct the gap between the company's robustness and its obsolete digital presence. I conducted an in-depth interface and typography study based on the brand's visual identity, leading to an authentic advertising campaign that served as the foundation for the new site. The result was a unified brand language: the site now speaks directly to two distinct profiles, transforming the platform into a hub of trust and authority that accelerates new business and partnerships.",
                 "technologies": [
                     "WordPress",
                     "PHP",
@@ -125,10 +125,10 @@
         },
         {
             "title": "<span class='badge-new'>NEW</span> Volts Seguradora",
-            "description": "Creation of the first digital identity for Volts, focused on consolidating authority for the new brand and highlighting its services in the insurance sector.",
+            "description": "Creation of Volts' first digital identity, focused on consolidating new brand authority and highlighting services in the insurance sector.",
             "imageUrl": "./assets/img/web/site-volts.webp",
             "details": {
-                "fullDescription": "Volts Seguradora entered the market with the challenge of establishing trust and solidity from day one. As the company's first institutional site, I developed a high-impact branding project, combining a modern interface study with typography that conveys security. The strategic differentiator was an integrated advertising campaign that served as the basis for the site's positioning, ensuring visual and textual communication were in total harmony with the brand's reality. Developed in WordPress, the new site not only presents services clearly but provides Volts with a proprietary digital presence that positions it as a safe and innovative choice against established competitors.",
+                "fullDescription": "Volts Seguradora entered the market with the challenge of establishing trust and solidity from day one. As the company's first institutional site, I developed a high-impact branding project, merging modern UI study with typography that conveys security. The strategic differentiator was the creation of an integrated ad campaign that served as the base for the site’s positioning. Built on WordPress, the new site provides Volts with a proprietary digital presence that positions them as a secure and innovative choice against established competitors.",
                 "technologies": [
                     "WordPress",
                     "PHP",
@@ -152,7 +152,7 @@
             "description": "Complete revitalization of the WooCommerce store, focused on optimizing the buyer's journey and strengthening digital authority in the industrial sector.",
             "imageUrl": "./assets/img/web/site-tecnofluid.webp",
             "details": {
-                "fullDescription": "Tecnofluid is a benchmark in industrial solutions, where technical precision and trust are fundamental. The challenge was transforming an obsolete online store into a high-performance sales platform. I conducted an interface study focused on information hierarchy and ease of navigation for technical products, utilizing the corporate identity to create a professional digital environment. The project was guided by a strategic advertising campaign that anchored the site's new positioning. With custom WordPress and WooCommerce development, the result was a fluid and secure shopping experience that elevated Tecnofluid's professionalism and bridged the gap between complex products and customer needs.",
+                "fullDescription": "Tecnofluid is a reference in industrial solutions, where technical precision is paramount. The challenge was transforming an obsolete store into a high-performance sales platform. I conducted a UI study focused on information hierarchy and navigation ease for technical products. The project was guided by a strategic campaign that redefined the site's positioning. Using custom WordPress and WooCommerce coding, the result was a fluid and secure shopping experience that elevated Tecnofluid's professionalism and bridged the gap between complex products and client needs.",
                 "technologies": [
                     "WordPress",
                     "WooCommerce",
@@ -173,10 +173,10 @@
         },
         {
             "title": "<span class='badge-new'>NEW</span> RM Polimentos",
-            "description": "Full overhaul of the brand's digital presence, focused on visual modernization and conversion journey optimization for high-end services.",
+            "description": "Integral reshaping of the brand's digital presence, focused on visual modernization and conversion journey optimization for high-end services.",
             "imageUrl": "./assets/img/web/site-rm-polimentos.webp",
             "details": {
-                "fullDescription": "RM Polimentos specializes in the restoration and treatment of noble surfaces, catering to an audience that values aesthetics and durability. The total site redesign was motivated by the need to align the company's digital image with the sophistication of its marble and granite services. I developed a minimalist and elegant interface where the main focus is on visual results, conveying immediate trust and authority. The impact of my strategic web design work was the creation of a luxury digital showcase that not only modernized the brand but significantly raised the perceived value of services, attracting more qualified and professional leads.",
+                "fullDescription": "RM Polimentos specializes in the restoration and treatment of noble surfaces, catering to an audience that values aesthetics and durability. The redesign was driven by the need to align the digital image with the sophistication of their marble and granite services. I developed a minimalist and elegant interface where the focus is on visual results, conveying immediate authority. This strategic web design created a luxury digital showcase that significantly raised the perceived value of their services, attracting more qualified leads.",
                 "technologies": [
                     "WordPress",
                     "PHP",
@@ -196,10 +196,10 @@
         },
         {
             "title": "H2 Finance - Strategic Consulting",
-            "description": "Creation of a high-conversion Landing Page designed for the brand's launch in the financial market, with a total focus on authority and lead generation.",
+            "description": "Creation of a high-conversion Landing Page designed for the brand's market launch, focusing on authority and lead capture.",
             "imageUrl": "./assets/img/web/site-h2.webp",
             "details": {
-                "fullDescription": "H2 Finance is a company born to offer intelligent and uncomplicated financial solutions for the corporate sector. As the starting point of the brand's digital presence, I developed a strategic landing page that prioritizes value proposition clarity and ease of contact (CTA). The work involved structuring an information architecture focused on UX (User Experience), ensuring potential clients understand the company's stability within seconds of browsing. This project was vital for the brand launch: the strategic design gave H2 Finance the image of an established and trustworthy institution, transforming the landing page into the primary gateway for new business and strategic partnerships.",
+                "fullDescription": "H2 Finance offers smart financial solutions for the corporate sector. As the starting point of the brand's digital presence, I developed a strategic landing page that prioritizes value proposition clarity and ease of contact (CTA). The project involved structuring an information architecture focused on UX, ensuring potential clients grasp the company's solidity within seconds. The strategic design gave H2 Finance an image of an established, trustworthy institution, making the landing page the primary gateway for new business generation.",
                 "technologies": [
                     "WordPress",
                     "Elementor Pro",
@@ -219,286 +219,229 @@
         },
         {
             "title": "<span class='badge-new'>NEW</span> Trindade Mutual",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Technical maintenance and website LGPD (General Data Protection Law) compliance.",
+            "imageUrl": "./assets/img/web/site-trindade.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Preventive and corrective maintenance of the WordPress platform, focusing on technical compliance with the Brazilian General Data Protection Law (LGPD), including cookie management and privacy policy implementation.",
                 "technologies": [
                     "WordPress",
-                    "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "LGPD Compliance",
+                    "PHP",
+                    "Digital Security",
+                    "Cookie Management"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-trindade.webp"
                 ],
                 "link": "https://trindademutual.com.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Líder Medidores",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Website deployment and hosting server configuration.",
+            "imageUrl": "./assets/img/web/site-lidermedidores.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Execution of deployment and complete production environment configuration, including DNS adjustments, SSL certificates, and initial server optimization for the site launch.",
                 "technologies": [
                     "WordPress",
-                    "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "Web Hosting",
+                    "DNS",
+                    "SSL",
+                    "FTP/SFTP"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-lidermedidores.webp"
                 ],
                 "link": "https://lidermedidores.com.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Conti Consultoria",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Content management and ongoing portal updates.",
+            "imageUrl": "./assets/img/web/site-conti.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Ongoing maintenance of the corporate website, involving article publication, service updates, and post optimization to ensure platform dynamism.",
                 "technologies": [
                     "WordPress",
-                    "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "Content Management",
+                    "SEO",
+                    "Web Design"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-conti.webp"
                 ],
                 "link": "https://conticonsultoria.com.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> RH Conti Consultoria",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Job board updates and content management for the HR portal.",
+            "imageUrl": "./assets/img/web/site-conti-rh.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Technical administration of the HR subdomain, focusing on dynamic job posting and informative articles about the labor market.",
                 "technologies": [
                     "WordPress",
-                    "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "Job Management",
+                    "Content Marketing",
+                    "PHP"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-conti-rh.webp"
                 ],
                 "link": "https://rh.conticonsultoria.com.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Pensamente Psicologia",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Technical updates and content maintenance.",
+            "imageUrl": "./assets/img/web/site-pensamente.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Periodic website updates to ensure platform stability, data security, and the relevance of content presented to patients.",
                 "technologies": [
                     "WordPress",
                     "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "PHP",
+                    "Web Maintenance"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-pensamente.webp"
                 ],
-                "link": "pensamentepsicologia.com.br"
+                "link": "https://pensamentepsicologia.com.br"
             }
         },
         {
-            "title": "<span class='badge-new'>NEW</span> Star Licitações",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "title": "<span class='badge-new'>NEW</span> Star Licitacoes",
+            "description": "Course catalog management and UI redesign (Slider).",
+            "imageUrl": "./assets/img/web/site-star-licitacoes.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Constant maintenance of the course catalog and strategic redesign of the main slider to improve visual communication and user engagement with training offers.",
                 "technologies": [
                     "WordPress",
                     "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "Smart Slider 3",
+                    "Interface Design"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-star-licitacoes.webp"
                 ],
-                "link": "https://starlicitacoes.com.br/"
+                "link": "https://starlicitacoes.com.br"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Gráfica GGS",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "E-commerce maintenance and catalog updates via WooCommerce.",
+            "imageUrl": "./assets/img/web/site-grafica-ggs-produtos.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Operational management of the online store, including the ongoing publication and update of the personalized products portfolio, ensuring correct sales flow.",
                 "technologies": [
                     "WordPress",
-                    "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "WooCommerce",
+                    "E-commerce",
+                    "Inventory Management"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-grafica-ggs-produtos.webp"
                 ],
                 "link": "https://www.graficaggs.com.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Autoescola Maia",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Complete website overhaul and modernization.",
+            "imageUrl": "./assets/img/web/site-autoescola-maia.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Strategic redesign focused on improving user experience (UX) and student conversion. The new site features a cleaner, responsive interface optimized for mobile devices.",
                 "technologies": [
                     "WordPress",
                     "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "Local SEO",
+                    "Responsive Design"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-autoescola-maia.webp"
                 ],
-                "link": "https://www.graficaggs.com.br/"
+                "link": "https://autoescolamaia.com.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Inove Joy",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Visual and structural portal redesign.",
+            "imageUrl": "./assets/img/web/site-inovejoy.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Total overhaul project to align the site with the brand's new communication goals, focusing on usability and a modern aesthetic that builds public trust.",
                 "technologies": [
                     "WordPress",
                     "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "UI/UX Design",
+                    "Performance Optimization"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-inovejoy.webp"
                 ],
-                "link": "https://www.graficaggs.com.br/"
+                "link": "https://inovejoy.com.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Amave",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Institutional portal redesign for the association.",
+            "imageUrl": "./assets/img/web/site-amave.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Update of Amave's digital presence, focusing on organizing institutional information and facilitating access to services offered to association members.",
                 "technologies": [
                     "WordPress",
                     "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "Information Architecture",
+                    "Accessibility"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-amave.webp"
                 ],
-                "link": "https://www.graficaggs.com.br/"
+                "link": "https://amave.org.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Fábrica da Bolacha de Chopp",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Creation of an institutional website integrated with a WooCommerce store.",
+            "imageUrl": "./assets/img/web/site-bolacha-chopp.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Full 'from scratch' development, merging an impactful institutional showcase with a robust e-commerce system for selling personalized beer coasters, including payment and shipping flows.",
                 "technologies": [
                     "WordPress",
-                    "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "WooCommerce",
+                    "E-commerce",
+                    "PHP",
+                    "Payment Gateway"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-bolacha-chopp.webp"
                 ],
-                "link": "https://www.graficaggs.com.br/"
+                "link": "http://fabricadabolachadechopp.com.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Soluster",
-            "description": "Project under development",
-            "imageUrl": "./assets/img/web/site-em-breve.jpeg",
+            "description": "Technical maintenance and ongoing platform support.",
+            "imageUrl": "./assets/img/web/site-soluster.webp",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Continuous technical support to ensure site stability, security, and performance, performing security updates and point adjustments as business needs arise.",
                 "technologies": [
                     "WordPress",
-                    "Elementor",
-                    "cPanel",
-                    "Adobe Photoshop",
-                    "Adobe Illustrator",
-                    "Let's Encrypt",
-                    "Google Site Kit",
-                    "PageSpeed Insights"
+                    "Corrective Maintenance",
+                    "Security",
+                    "Server Optimization"
                 ],
                 "gallery": [
-                    "./assets/img/web/site-em-breve.jpeg",
-                    "./assets/img/web/site-em-breve.jpeg"
+                    "./assets/img/web/site-soluster.webp"
                 ],
-                "link": "https://www.graficaggs.com.br/"
+                "link": "https://soluster.com.br/"
             }
         },
         {
             "title": "<span class='badge-new'>NEW</span> Pimenta Perícias",
-            "description": "Project under development",
+            "description": "Project in development",
             "imageUrl": "./assets/img/web/site-em-breve.jpeg",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Project in development",
                 "technologies": [
                     "WordPress",
                     "Elementor",
@@ -518,10 +461,10 @@
         },
         {
             "title": "<span class='badge-new'>NEW</span> Vivian Bellezia Advocacia",
-            "description": "Project under development",
+            "description": "Project in development",
             "imageUrl": "./assets/img/web/site-em-breve.jpeg",
             "details": {
-                "fullDescription": "Project under development",
+                "fullDescription": "Project in development",
                 "technologies": [
                     "WordPress",
                     "Elementor",
